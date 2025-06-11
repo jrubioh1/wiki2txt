@@ -3,7 +3,7 @@ name = "wiki2txt"
 version = "1.0.0"
 description = ""
 authors = [
-    {name = "jrubioh = "jrubioh@pm.me"}
+    {name = "jrubioh,  email= "jrubioh@pm.me"}
 ]
 license = {text = "GLP-2"}
 readme = "README.md"
